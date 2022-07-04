@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sae.matsuda.843@gmail.com
+	name = Sae Matsuda
